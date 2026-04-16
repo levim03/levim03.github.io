@@ -12,5 +12,5 @@ This project focuses on analyzing weather patterns and their correlation to ener
 - Accessibility across different devices with responsive design.
 
 ## Usage
-To access the Power BI dashboard and view the results of the analysis, please visit our GitHub Pages site at: [https://levim03pages.github.io/]
+To access the Power BI dashboard and view the results of the analysis, please visit our GitHub Pages site at: [https://levim03.github.io/]
 
